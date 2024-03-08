@@ -1,0 +1,26 @@
+{
+  "name": "allinonereact",
+  "version": "1.0.0",
+  "description": "This project is created by souvik roy",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Souvik-R/ReactApp.git"
+  },
+  "author": "Souvik Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Souvik-R/ReactApp/issues"
+  },
+  "homepage": "https://github.com/Souvik-R/ReactApp#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
